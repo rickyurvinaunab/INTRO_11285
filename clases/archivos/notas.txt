@@ -1,3 +1,0 @@
-Estudiante 1; 600
-Estudiante 2; 400
-Estudiante 4; 500
