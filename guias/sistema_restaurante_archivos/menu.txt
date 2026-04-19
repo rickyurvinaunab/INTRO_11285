@@ -1,0 +1,3 @@
+Ceviche;12.5;Entrada
+Lomo Saltado;15.0;Fondo
+Jugo Natural;4.5;Bebida
